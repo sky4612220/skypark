@@ -1,0 +1,73 @@
+---
+title: "Must-Visit Spots"
+format: html
+---
+
+# 📍 Must-Visit Spots in Gunsan
+*A selection of Gunsan’s most iconic places to explore.*
+
+---
+
+## 🏛 Modern History Street (근대역사문화거리)
+
+A district filled with **modern-era architecture**, once a major hub for trade and administration.
+
+- 근대 건축물, 은행, 세관, 창고가 모여 있는 거리
+- 사진 찍기 좋은 붉은 벽돌 건물들
+- 주변에 카페·소품샵·문구점 등 볼거리 풍부  
+- 특히 **모어앤모어(서점·음반·문구)** 가 인기 있는 스폿
+
+📍 **주소:** 전북 군산시 구영1길 24-1  
+🔗 **Google Maps:** 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12913.56442020627!2d126.69640015755168!3d35.98630925984166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705c1083c94705%3A0xa9929215516859b8!2z66qo7Ja07JWk65Oc66qo7Ja0!5e0!3m2!1sko!2skr!4v1765130499103!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+---
+
+## 🌊 Eunpa Lake Park (은파호수공원)
+
+A peaceful urban lake surrounded by gardens and walking paths.
+
+- 호수 산책로, 음악 분수, 야경 명소
+- 봄 벚꽃터널, 가을 단풍길
+- 자전거·산책에 최적의 코스
+
+📍 **주소:** 전북 군산시 은파순환길  
+🔗 **Google Maps:** 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25839.340140910434!2d126.67530734533224!3d35.94898764009407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705bd7e3abe5a9%3A0x7dcc432f8575accf!2z7KCE67aB7Yq567OE7J6Q7LmY64-EIOq1sOyCsOyLnCDsnYDtjIzsiJztmZjquLg!5e0!3m2!1sko!2skr!4v1765130755109!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+---
+
+## 🚂 Gyeongam-dong Railroad Village (경암동 철길마을)
+
+A retro walking street built along an old railway track.
+
+- 철길 위 골목과 벽화들
+- 레트로 감성의 촬영 명소
+- 간단한 간식·소품 가게들이 모여 있는 거리
+
+📍 **주소:** 전북 군산시 경암동 일대  
+🔗 **Google Maps:** 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51657.574231608356!2d126.6914197122327!3d35.98124300762557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705c66d99e2fe7%3A0xc63eb8580215d73c!2z6rWw7IKw7IucIOyyoOq4uOuniOydhA!5e0!3m2!1sko!2skr!4v1765130698933!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+---
+
+## 🏝 Seonyudo & Gogunsan Islands (선유도·고군산군도)
+
+A group of scenic islands connected by bridges—one of Korea’s most beautiful coastal drives.
+
+- 섬 풍경, 해변, 자전거길, 드라이브 코스
+- 선유도·무녀도·신시도 등 인기 섬
+- 일몰 명소가 많아 사진 스폿으로 유명함
+- 배로 들어가는 코스 + 자전거 여행 추천
+
+📍 **주소(선유도):** 전북 군산시 옥도면 선유도리  
+🔗 **Google Maps:** 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51768.99839565101!2d126.37506551013729!3d35.81067487140381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35711cdf949b4ebb%3A0x774cdd6ef4fcfce2!2z7ISg7Jyg64-E!5e0!3m2!1sko!2skr!4v1765130729443!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+---
+
+## 📝 Note  
+All images in this guide were generated with AI for illustrative purposes.

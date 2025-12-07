@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "Gunsan Travel Guide"
+  navbar:
+    background: "#78b9ff"      # 상단 바 파란 그라데이션 느낌의 기본색
+    foreground: "white"        # 글자색
+    search: true               # 오른쪽에 검색창
+    left:
+      - file: index.qmd
+        text: Home
+      - text: Gunsan Story
+        menu:
+          - file: story.qmd
+            text: City Story
+          - file: ocean_history.qmd
+            text: Sea & Modern History
+      - text: Places to Go
+        menu:
+          - file: spots.qmd
+            text: Must-Visit Spots
+          - file: islands.qmd
+            text: Gogunsan Islands
+          - file: sunset.qmd
+            text: Sunset Points
+      - text: Eat & Drink
+        menu:
+          - file: bakeries.qmd
+            text: Bakeries
+          - file: cafes.qmd
+            text: Cafés
+          - file: food.qmd
+            text: Local Food
+      - file: map.qmd
+        text: Photo Map
+    right:
+      - file: about.qmd
+        text: About
+
+  page-footer:
+    background: "#f5f7ff"
+    center: "© 2025 Gunsan Travel Guide · Made by Park Haneul"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css      # ⬅️ 이걸로 우리가 직접 꾸민다
+    page-layout: full
+    smooth-scroll: true
+    toc: false

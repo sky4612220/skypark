@@ -1,0 +1,76 @@
+---
+title: "Bakeries"
+format: html
+---
+
+# 🥐 Bakery Tour in Gunsan
+```{=html}
+<div class="bakery-subtitle">Warm bread, cozy streets, and sweet moments in a port city.</div>
+
+<div class="bakery-container">
+
+  <!-- Bakery Card 1 -->
+  <div class="bakery-card">
+    <img src="images/bakery1.png" class="bakery-img">
+    <div class="bakery-icon">🥐</div>
+
+    <h3 class="bakery-title">Bakery 1 — Leesungdang</h3>
+
+    <p class="bakery-desc">
+      Korea’s oldest bakery with classic red-bean bread and a nostalgic retro charm.
+    </p>
+
+    <div class="bakery-tags">
+      <span class="tag">단팥빵</span>
+      <span class="tag">야채빵</span>
+    </div>
+
+    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
+  </div>
+
+  <!-- Bakery Card 2 -->
+  <div class="bakery-card">
+    <img src="images/bakery2.png" class="bakery-img">
+    <div class="bakery-icon">🥖</div>
+
+    <h3 class="bakery-title">Bakery 2 — (Name)</h3>
+
+    <p class="bakery-desc">
+      A warm bakery café perfect for reading, relaxing, and enjoying gentle latte vibes.
+    </p>
+
+    <div class="bakery-tags">
+      <span class="tag">크루아상</span>
+      <span class="tag">라떼</span>
+    </div>
+
+    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
+  </div>
+
+  <!-- Bakery Card 3 -->
+  <div class="bakery-card">
+    <img src="images/bakery3.png" class="bakery-img">
+    <div class="bakery-icon">🍰</div>
+
+    <h3 class="bakery-title">Bakery 3 — (Name)</h3>
+
+    <p class="bakery-desc">
+      A dessert-focused bakery with beautifully plated cakes and photogenic interiors.
+    </p>
+
+    <div class="bakery-tags">
+      <span class="tag">케이크</span>
+      <span class="tag">티라미수</span>
+    </div>
+
+    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
+  </div>
+
+</div>
+
+---
+
+<div class="ai-note">
+  All images on this site are AI-generated for illustrative purposes.
+</div>
+```

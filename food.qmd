@@ -1,0 +1,19 @@
+---
+title: "Local Food"
+format: html
+---
+
+## Local Food in Gunsan
+
+### 🍜 Jjamppong Street
+
+- 군산 짬뽕 특징
+- 대표 가게 예시
+
+### 🐟 Seafood & Harbor Dishes
+
+- 회, 해물 요리, 횟집 분위기
+
+### 🍚 Simple Home-style Meals
+
+- 백반, 김치찌개, 경양식 느낌 식당들

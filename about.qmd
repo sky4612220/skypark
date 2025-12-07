@@ -1,0 +1,20 @@
+
+---
+
+## 6️⃣ About – `about.qmd`
+
+```markdown
+---
+title: "About This Site"
+format: html
+---
+
+## About This Site
+
+This website was created as a small guide to Gunsan.
+
+- Author: Park Haneul  
+- Purpose: Introduce Gunsan’s places, stories, bakeries, cafés, and local food.  
+- Tools: Quarto, RStudio, simple HTML & CSS.
+
+You can use this site as a travel reference, portfolio piece, or a practice project for web publishing.

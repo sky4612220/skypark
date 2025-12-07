@@ -1,0 +1,86 @@
+---
+title: "Gunsan Story"
+format: html
+---
+
+#  City of Sea and History  
+*A port city shaped by the sea, modern history, and quiet charm.*
+
+Gunsan is a coastal city on the west coast of Korea, where the Geum River meets the Yellow Sea.  
+Historically, it grew as a strategic **trade port**, and today it blends **modern industry, island scenery, and cultural heritage** into a unique landscape.
+
+---
+
+##  A Port Opened to the World
+
+Gunsan’s history changed significantly when it became an open port in 1899, allowing foreign trade—especially the export of rice from the Honam Plain.  
+During the Japanese occupation (1910–1945), the city developed rapidly as Japan built large-scale facilities:
+
+- Gunsan Customs House and old bank buildings in red brick  
+- Warehouses and piers used for transporting rice  
+- A floating pier that showed advanced engineering at the time  
+
+Today, these places remain part of **Gunsan’s Modern History District**, turning the city into a kind of **“open-air museum” of Korea’s modern era**.
+
+---
+
+##  Layers of the City
+
+Gunsan is not just a port—it is a city built in distinct **layers**, each representing a different face of the city.
+
+### 1. The Sea & Islands
+
+- The Gogunsan Islands, including Seonyudo, Munyeodo, and Sinsido  
+- Island bridges and coastal roads with wide sea views  
+- Famous sunset points and quiet beaches  
+- Popular cycling and driving routes
+
+### 2. The River & Wetlands
+
+- The lower Geum River and its wide river mouth  
+- Migratory birds visiting wetlands and estuaries  
+- Eco-parks and observatories for birdwatching and nature walks  
+
+### 3. The Modern Downtown
+
+- Old Japanese-style houses and warehouses mixed with new cafés  
+- Retro streets like Gyeongam-dong Railroad Village  
+- Small alleys, murals, and streets that are perfect for walking and taking photos  
+
+---
+
+##  Photo Highlights
+
+> All images shown are AI-generated.
+
+::: {.columns}
+::: {.column}
+### River & Port
+![](images/river.png)
+
+A calm view where the river meets the sea.
+:::
+
+::: {.column}
+### Modern History Street
+![](images/modern.png)
+
+Red-brick buildings and old banks from Korea’s early modern era.
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Gogunsan Islands
+![](images/Gogunsan.png)
+
+Bridges, sea, and island silhouettes against the sunset.
+:::
+
+::: {.column}
+### Railroad Village
+![](images/rail.png)
+
+Retro alleys and an old railway turned into a photo-friendly street.
+:::
+:::

@@ -1,0 +1,55 @@
+---
+title: "Home"
+format: html
+---
+```{=html}
+<div class="hero-banner">
+  <div class="hero-overlay"></div>
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1 class="hero-title">Gunsan Travel Guide</h1>
+      <p class="hero-subtitle">
+        Sea breeze, warm bread, quiet streets, and modern history in one small coastal city.
+      </p>
+      <div class="hero-buttons">
+        <a href="story.qmd" class="hero-btn hero-primary">📖 Read Gunsan Story</a>
+        <a href="spots.qmd" class="hero-btn hero-ghost">📍 View Must-Visit Spots</a>
+      </div>
+      <div class="hero-tagline">
+        Crumb Quest · Your sweet and quiet journey through Gunsan
+      </div>
+    </div>
+  </div>
+</div>
+```
+::: {.home-section}
+## ✨ What You Can Explore
+
+::: {.home-grid}
+
+::: {.home-card}
+### 🏛 Modern History Street
+
+Walk through red-brick buildings, old banks, and a customs house that tell the story of Korea’s modern era.
+
+[Explore the story →](story.qmd)
+:::
+
+::: {.home-card}
+### 📍 Places to Go
+
+From the Modern History Street to Gogunsan Islands and sunset viewpoints, Gunsan is full of quiet yet powerful scenery.
+
+[See must-visit spots →](spots.qmd)
+:::
+
+::: {.home-card}
+### 🍞 Bakeries & Cafés
+
+Follow the smell of freshly baked bread and coffee through the streets of Gunsan and find your own cozy corner.
+
+[Start the bakery tour →](bakeries.qmd)
+:::
+
+:::
+:::
