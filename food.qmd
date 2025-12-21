@@ -3,17 +3,180 @@ title: "Local Food"
 format: html
 ---
 
-## Local Food in Gunsan
+# 🍽 Local Food in Gunsan
 
-### 🍜 Jjamppong Street
+```{=html}
+<div class="food-wrap">
 
-- 군산 짬뽕 특징
-- 대표 가게 예시
+  <!-- 상단 컬러 배너 -->
+  <section class="food-hero">
+    <div class="food-hero-badge">Gunsan Eats</div>
+    <h2 class="food-hero-title">Colorful Bites, Local Vibes</h2>
+    <p class="food-hero-sub">
+      Spicy noodles, fresh harbor dishes, and comforting home-style meals.
+    </p>
 
-### 🐟 Seafood & Harbor Dishes
+    <div class="food-hero-chips">
+      <span class="chip chip-red">🍜 Jjamppong</span>
+      <span class="chip chip-blue">🐟 Seafood</span>
+      <span class="chip chip-green">🍚 Home-style</span>
+      <span class="chip chip-yellow">⭐ Must-try</span>
+    </div>
+  </section>
 
-- 회, 해물 요리, 횟집 분위기
+  <!-- 섹션 1: 중식 -->
+  <section class="food-section food-sec-red">
+    <div class="food-sec-head">
+      <div class="food-sec-icon">🍜</div>
+      <div>
+        <h3 class="food-sec-title">Chinese Classics</h3>
+        <p class="food-sec-desc">
+          Fast comfort food — jjajangmyeon, jjamppong, and crispy tangsuyuk.
+        </p>
+      </div>
+      <div class="food-sec-sticker">Hot</div>
+    </div>
 
-### 🍚 Simple Home-style Meals
+    <div class="food-cards">
 
-- 백반, 김치찌개, 경양식 느낌 식당들
+      <!-- 동네중국집 -->
+      <article class="food-card">
+        <div class="food-card-top">
+          <div class="food-card-badge">Local</div>
+          <h4 class="food-card-title">동네중국집</h4>
+        </div>
+
+        <div class="food-card-body">
+          <div class="food-line"><span class="k">Signature</span><span class="v">짜장면 · 짬뽕 · 탕수육</span></div>
+          <div class="food-line"><span class="k">Prices</span><span class="v">₩7,000 / ₩9,000 / ₩17,000</span></div>
+          <div class="food-line"><span class="k">Best for</span><span class="v">Quick meal · Classic comfort</span></div>
+
+          <div class="food-tags">
+            <span class="tag t-red">🌶 Spicy</span>
+            <span class="tag t-orange">🍜 Noodles</span>
+            <span class="tag t-yellow">⭐ Classic</span>
+          </div>
+
+          <div class="food-actions">
+            <a class="food-btn btn-red"
+               href="https://www.google.com/maps/search/?api=1&query=동네중국집+군산"
+               target="_blank" rel="noopener">📍 Map</a>
+            <button class="food-btn btn-ghost" type="button"
+              onclick="this.closest('.food-card').classList.toggle('open')">🗺️ Embed</button>
+          </div>
+
+          <div class="food-map">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.410173418545!2d126.71901000000001!3d35.961396199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705b8d6c87ca5d%3A0x9693ee3e3d331ce3!2z64-Z64Sk7KSR6rWt7KeR!5e0!3m2!1sko!2skr!4v1766229138152!5m2!1sko!2skr"
+              width="100%" height="240"
+              style="border:0;border-radius:14px;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- 섹션 2: 집밥/백반 -->
+  <section class="food-section food-sec-green">
+    <div class="food-sec-head">
+      <div class="food-sec-icon">🍚</div>
+      <div>
+        <h3 class="food-sec-title">Home-style Meals</h3>
+        <p class="food-sec-desc">
+          Warm rice, comforting sides, and local everyday favorites.
+        </p>
+      </div>
+      <div class="food-sec-sticker">Comfort</div>
+    </div>
+
+    <div class="food-cards">
+
+      <!-- 토실배기 -->
+      <article class="food-card">
+        <div class="food-card-top">
+          <div class="food-card-badge">Must</div>
+          <h4 class="food-card-title">토실배기</h4>
+        </div>
+
+        <div class="food-card-body">
+          <div class="food-line"><span class="k">Signature</span><span class="v">돼지불고기 백반</span></div>
+          <div class="food-line"><span class="k">Price</span><span class="v">₩12,000 (per person)</span></div>
+          <div class="food-line"><span class="k">Best for</span><span class="v">Hearty lunch · Real local vibes</span></div>
+
+          <div class="food-tags">
+            <span class="tag t-green">🍚 Rice</span>
+            <span class="tag t-orange">🥘 Set meal</span>
+            <span class="tag t-yellow">⭐ Filling</span>
+          </div>
+
+          <div class="food-actions">
+            <a class="food-btn btn-green"
+               href="https://www.google.com/maps/search/?api=1&query=토실배기+군산"
+               target="_blank" rel="noopener">📍 Map</a>
+            <button class="food-btn btn-ghost" type="button"
+              onclick="this.closest('.food-card').classList.toggle('open')">🗺️ Embed</button>
+          </div>
+
+          <div class="food-map">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.534159753647!2d126.71034440000001!3d35.9583641!2m3!1f0!2f0!3f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705be9368e49b1%3A0x8a7a8987663c42a7!2z7Yag7Iuk67Cw6riw!5e0!3m2!1sko!2skr!4v1766229075516!5m2!1sko!2skr"
+              width="100%" height="240"
+              style="border:0;border-radius:14px;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </article>
+
+      <!-- 은파종점 -->
+      <article class="food-card">
+        <div class="food-card-top">
+          <div class="food-card-badge">Group</div>
+          <h4 class="food-card-title">은파종점</h4>
+        </div>
+
+        <div class="food-card-body">
+          <div class="food-line"><span class="k">Signature</span><span class="v">닭도리탕(스타일) · 단체 식사</span></div>
+          <div class="food-line"><span class="k">Price</span><span class="v">2인 ₩32,000 · 3인 ₩48,000</span></div>
+          <div class="food-line"><span class="k">Best for</span><span class="v">Friends · Family · Warm shared meal</span></div>
+
+          <div class="food-tags">
+            <span class="tag t-yellow">🍲 Shared</span>
+            <span class="tag t-orange">🔥 Hot pot</span>
+            <span class="tag t-green">👥 Group</span>
+          </div>
+
+          <div class="food-actions">
+            <a class="food-btn btn-green"
+               href="https://www.google.com/maps/search/?api=1&query=은파종점+군산"
+               target="_blank" rel="noopener">📍 Map</a>
+            <button class="food-btn btn-ghost" type="button"
+              onclick="this.closest('.food-card').classList.toggle('open')">🗺️ Embed</button>
+          </div>
+
+          <div class="food-map">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.54211279154!2d126.7090389!3d35.9581696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705be8dfb51cb9%3A0xb1d32e93e2adaca0!2z7J2A7YyM7KKF7KCQ!5e0!3m2!1sko!2skr!4v1766229385042!5m2!1sko!2skr"
+              width="100%" height="240"
+              style="border:0;border-radius:14px;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <div class="ai-note">
+    All images on this site are AI-generated for illustrative purposes.
+  </div>
+
+</div>
+```

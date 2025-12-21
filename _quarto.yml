@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Gunsan Travel Guide"
   navbar:
@@ -10,20 +10,18 @@ website:
     left:
       - file: index.qmd
         text: Home
-      - text: Gunsan Story
-        menu:
-          - file: story.qmd
-            text: City Story
-          - file: ocean_history.qmd
-            text: Sea & Modern History
-      - text: Places to Go
-        menu:
-          - file: spots.qmd
-            text: Must-Visit Spots
-          - file: islands.qmd
-            text: Gogunsan Islands
-          - file: sunset.qmd
-            text: Sunset Points
+
+      - file: story.qmd
+        text: Gunsan Story
+          #- file: ocean_history.qmd
+           # text: Sea & Modern History
+
+      - file: spots.qmd
+        text: Must-Visit Spots
+          #- file: islands.qmd
+          #  text: googunsan Islands
+          #- file: sunset.qmd
+          #  text: Sunset Points
       - text: Eat & Drink
         menu:
           - file: bakeries.qmd

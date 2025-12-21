@@ -1,20 +1,86 @@
-
----
-
-## 6️⃣ About – `about.qmd`
-
-```markdown
 ---
 title: "About This Site"
 format: html
 ---
 
-## About This Site
+```{=html}
+<section class="about-wrap">
 
-This website was created as a small guide to Gunsan.
+  <div class="about-hero">
+    <div class="about-badge">Portfolio Profile</div>
+    <h1 class="about-title">Park Haneul</h1>
+    <p class="about-subtitle">
+     
+    </p>
 
-- Author: Park Haneul  
-- Purpose: Introduce Gunsan’s places, stories, bakeries, cafés, and local food.  
-- Tools: Quarto, RStudio, simple HTML & CSS.
+    <div class="about-card">
+      <div class="about-left">
+        <div class="about-avatar" aria-hidden="true">
+          PH
+        </div>
 
-You can use this site as a travel reference, portfolio piece, or a practice project for web publishing.
+        <div class="about-info">
+          <div class="about-name">Park Haneul</div>
+          <div class="about-major">English Language & Literature · Gunsan University</div>
+          <div class="about-id">Student ID: <span>2201327</span></div>
+
+          <div class="about-contact">
+            <a class="about-mail" href="mailto:sky0504@kunsan.ac.kr">sky0504@kunsan.ac.kr</a>
+          </div>
+
+          <div class="about-tags">
+            <span class="about-tag">Quarto</span>
+            <span class="about-tag">RStudio</span>
+            <span class="about-tag">HTML/CSS</span>
+            <span class="about-tag">Travel Writing</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="about-right">
+        <h3 class="about-section-title">About this project</h3>
+        <p class="about-text">
+          This site was created as a personal portfolio project to introduce Gunsan — its stories,
+          places to visit, bakeries, cafés, and local food — in a warm, visual, and easy-to-browse way.
+        </p>
+
+        <div class="about-grid">
+          <div class="about-mini">
+            <div class="mini-emoji">📍</div>
+            <div class="mini-title">Theme</div>
+            <div class="mini-text">Gunsan city guide</div>
+          </div>
+
+          <div class="about-mini">
+            <div class="mini-emoji">🧁</div>
+            <div class="mini-title">Focus</div>
+            <div class="mini-text">Food · cafés · bakeries</div>
+          </div>
+
+          <div class="about-mini">
+            <div class="mini-emoji">🧱</div>
+            <div class="mini-title">Build</div>
+            <div class="mini-text">Quarto website</div>
+          </div>
+
+          <div class="about-mini">
+            <div class="mini-emoji">✨</div>
+            <div class="mini-title">Goal</div>
+            <div class="mini-text">Portfolio + practice</div>
+          </div>
+        </div>
+
+        <div class="about-cta">
+          <a class="about-btn" href="index.qmd">🏠 Back to Home</a>
+          <a class="about-btn ghost" href="map.qmd">🗺️ Photo Map</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="about-note">
+      All images on this site are AI-generated for illustrative purposes.
+    </div>
+  </div>
+
+</section>
+```

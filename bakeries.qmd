@@ -11,62 +11,81 @@ format: html
 
   <!-- Bakery Card 1 -->
   <div class="bakery-card">
-    <img src="images/bakery1.png" class="bakery-img">
+
     <div class="bakery-icon">🥐</div>
 
-    <h3 class="bakery-title">Bakery 1 — Leesungdang</h3>
+    <h3 class="bakery-title">이성당(Leesungdang)</h3>
 
     <p class="bakery-desc">
       Korea’s oldest bakery with classic red-bean bread and a nostalgic retro charm.
     </p>
 
-    <div class="bakery-tags">
-      <span class="tag">단팥빵</span>
-      <span class="tag">야채빵</span>
+    <div class="bakery-map">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.3545189132706!2d126.71126870000002!3d35.9872034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705c16ae2a4963%3A0x36267bf5d91e3ce6!2z7J207ISx64u5IOuzuOygkA!5e0!3m2!1sko!2skr!4v1766225614518!5m2!1sko!2skr"
+        width="100%"
+        height="260"
+        style="border:0; border-radius:14px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
     </div>
-
-    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
   </div>
 
-  <!-- Bakery Card 2 -->
+
+
+
+
+<!-- Bakery Card 2 -->
   <div class="bakery-card">
-    <img src="images/bakery2.png" class="bakery-img">
+
     <div class="bakery-icon">🥖</div>
 
-    <h3 class="bakery-title">Bakery 2 — (Name)</h3>
+    <h3 class="bakery-title">영국빵집 (British Bakery)</h3>
 
     <p class="bakery-desc">
-      A warm bakery café perfect for reading, relaxing, and enjoying gentle latte vibes.
+      A beloved local bakery offering comforting breads and a calm,
+      neighborhood atmosphere.
     </p>
 
-    <div class="bakery-tags">
-      <span class="tag">크루아상</span>
-      <span class="tag">라떼</span>
+    <div class="bakery-map">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25829.670172503647!2d126.69027055747522!3d35.9785449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705c066b930879%3A0xebde91f33f8149f0!2z7JiB6rWt67m17KeR!5e0!3m2!1sko!2skr!4v1766224553492!5m2!1sko!2skr"
+        width="100%"
+        height="260"
+        style="border:0; border-radius:14px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
     </div>
-
-    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
   </div>
 
-  <!-- Bakery Card 3 -->
+<!-- Bakery Card 3 -->
   <div class="bakery-card">
-    <img src="images/bakery3.png" class="bakery-img">
+
     <div class="bakery-icon">🍰</div>
 
-    <h3 class="bakery-title">Bakery 3 — (Name)</h3>
+    <h3 class="bakery-title">물밀소 (Mulmilso)</h3>
 
     <p class="bakery-desc">
-      A dessert-focused bakery with beautifully plated cakes and photogenic interiors.
+      A refined bakery known for clean flavors, delicate desserts,
+      and a minimalist aesthetic.
     </p>
 
-    <div class="bakery-tags">
-      <span class="tag">케이크</span>
-      <span class="tag">티라미수</span>
+    <div class="bakery-map">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.4435994147043!2d126.70904509999997!3d35.985026299999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705c1055090f41%3A0x29e376335929a45e!2z66y867CA7IaM!5e0!3m2!1sko!2skr!4v1766224583571!5m2!1sko!2skr"
+        width="100%"
+        height="260"
+        style="border:0; border-radius:14px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
     </div>
-
-    <a href="https://maps.app.goo.gl/여기에링크" class="map-btn">📍 View on Google Maps</a>
   </div>
-
-</div>
 
 ---
 

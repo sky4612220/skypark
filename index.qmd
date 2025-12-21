@@ -2,6 +2,7 @@
 title: "Home"
 format: html
 ---
+
 ```{=html}
 <div class="hero-banner">
   <div class="hero-overlay"></div>
@@ -22,12 +23,12 @@ format: html
   </div>
 </div>
 ```
-::: {.home-section}
+
+::::::: home-section
 ## ✨ What You Can Explore
 
-::: {.home-grid}
-
-::: {.home-card}
+:::::: home-grid
+::: home-card
 ### 🏛 Modern History Street
 
 Walk through red-brick buildings, old banks, and a customs house that tell the story of Korea’s modern era.
@@ -35,7 +36,7 @@ Walk through red-brick buildings, old banks, and a customs house that tell the s
 [Explore the story →](story.qmd)
 :::
 
-::: {.home-card}
+::: home-card
 ### 📍 Places to Go
 
 From the Modern History Street to Gogunsan Islands and sunset viewpoints, Gunsan is full of quiet yet powerful scenery.
@@ -43,13 +44,12 @@ From the Modern History Street to Gogunsan Islands and sunset viewpoints, Gunsan
 [See must-visit spots →](spots.qmd)
 :::
 
-::: {.home-card}
+::: home-card
 ### 🍞 Bakeries & Cafés
 
 Follow the smell of freshly baked bread and coffee through the streets of Gunsan and find your own cozy corner.
 
 [Start the bakery tour →](bakeries.qmd)
 :::
-
-:::
-:::
+::::::
+:::::::
